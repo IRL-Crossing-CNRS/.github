@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/IRL-Crossing-CNRS/.github/main/profile/Crossing_logo_name.png" width="400">
 
-[Crossing](https://crossing.cnrs.fr/) The French Australian Laboratory for Humans-Machine Teaming
+[Crossing](https://crossing.cnrs.fr/) The French Australian Laboratory for Humans-Machine Teaming.
 
 ## Partners 
 
@@ -29,3 +29,7 @@ CROSSING supports internships for undergraduate and postgraduate students, for a
   - Energy
   - Assistive Robotics
   - Spatial
+
+ ## Follow Us
+
+If you are a CROSSING member, follow our github to be added, and have access to our private repo.
