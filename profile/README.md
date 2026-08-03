@@ -28,7 +28,7 @@ French-Australian Laboratory for Human-Autonomous Agents Teaming
 
 ## About
 
-CROSSING is a CNRS **International Research Laboratory (IRL)**, jointly operated with our Australian partners, dedicated to the study and design of **human-autonomous agent teaming**. Our researchers work across robotics, AI, human factors and systems engineering to build autonomous systems that can be trusted, understood and effectively teamed with by humans in complex, high-stakes environments.
+CROSSING is a CNRS **International Research Laboratory (IRL)**, dedicated to the study and design of **human-autonomous agent teaming**. Our researchers work across robotics, AI, human factors and systems engineering to build autonomous systems that can be trusted, understood and effectively teamed with by humans in complex, high-stakes environments.
 
 <br>
 
